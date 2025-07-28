@@ -103,6 +103,6 @@ npm run start
 ---
 
 ## Contact
-- Email: [🤝email](mailto:subhadipmaity792@gmail.com)
+- Email: [🤝mdjishanahmad@gmail.com)
 - GitHub: [SontuCoder](https://github.com/SontuCoder)
 
