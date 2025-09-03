@@ -1,5 +1,5 @@
 # 💸 Expense Tracker (MERN)
-<img src="img\image copy 8.png" alt="SontuCoder" width="40px" height="40px"> By, Subhadip Maity.
+<img src="img\image copy 8.png" alt="SontuCoder" width="40px" height="40px"> By, Md Jishan Ahmad.
 
 ## Description
 A full-stack **Expense & Income Tracker** application built using the **MERN** stack, featuring an elegant, responsive UI, data visualization, image uploads, and Excel export.
@@ -104,5 +104,5 @@ npm run start
 
 ## Contact
 - Email: [🤝mdjishanahmad@gmail.com)
-- GitHub: [SontuCoder](https://github.com/SontuCoder)
+- GitHub: [https://github.com/Jishanahmad786/Expense-Tracker)
 
